@@ -8,13 +8,13 @@ on each release.
 
 ## Get the latest version
 
-**[Download Drago 1.0.11](https://github.com/bhaskarbarot/drago-releases/releases/download/v11/Drago-v11.apk)** — published 2026-08-18
+**[Download Drago 1.0.12](https://github.com/bhaskarbarot/drago-releases/releases/download/v12/Drago-v12.apk)** — published 2026-08-18
 
 | | |
 |---|---|
-| Version | 1.0.11 (build v11) |
+| Version | 1.0.12 (build v12) |
 | Published | 2026-08-18 |
-| SHA-256 | `833b83a87f1eec065c985ab732b615f85d83337d51d49e09fa9c63ecd845f16d` |
+| SHA-256 | `672f89262215572cc36209c205970ac78092e5475b2bb1089d9a807cafdc59d8` |
 
 See the [Releases page](https://github.com/bhaskarbarot/drago-releases/releases) for every past version and its notes.
 
@@ -30,7 +30,7 @@ See the [Releases page](https://github.com/bhaskarbarot/drago-releases/releases)
 Every release lists a SHA-256 checksum above and in `version.json`. To confirm your download matches exactly what CI built:
 
 ```
-sha256sum Drago-v11.apk
+sha256sum Drago-v12.apk
 ```
 
 Beyond that, Android itself refuses to install an update unless it's signed with the same certificate as your current install — a hard OS-level guarantee that only the real developer's signing key can ever produce something Android accepts as an update to Drago.

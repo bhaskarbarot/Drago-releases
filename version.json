@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.11",
+  "versionCode": 12,
+  "versionName": "1.0.12",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v11/Drago-v11.apk",
-  "releaseNotes": "Fix release workflow: git -C .. pointed outside the repo before the cd into drago-releases-repo",
-  "sha256": "833b83a87f1eec065c985ab732b615f85d83337d51d49e09fa9c63ecd845f16d"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v12/Drago-v12.apk",
+  "releaseNotes": "CI/CD hardening pass: dependency vulnerabilities, action versions, cache bug, npm ci, test log noise",
+  "sha256": "672f89262215572cc36209c205970ac78092e5475b2bb1089d9a807cafdc59d8"
 }
