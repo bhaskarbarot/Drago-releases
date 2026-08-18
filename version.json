@@ -1,0 +1,8 @@
+{
+  "versionCode": 11,
+  "versionName": "1.0.11",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v11/Drago-v11.apk",
+  "releaseNotes": "Fix release workflow: git -C .. pointed outside the repo before the cd into drago-releases-repo",
+  "sha256": "833b83a87f1eec065c985ab732b615f85d83337d51d49e09fa9c63ecd845f16d"
+}
