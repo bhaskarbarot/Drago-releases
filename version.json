@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.13",
+  "versionCode": 14,
+  "versionName": "1.0.14",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v13/Drago-v13.apk",
-  "releaseNotes": "Replace STT-driven enrollment with 6 short-sentence samples, no speech-to-text; add 3-state speaker verification",
-  "sha256": "f50ba35c44f2d306ab281419a2e6cc92045b5d60b23c2faa3a3c01876b501c71"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v14/Drago-v14.apk",
+  "releaseNotes": "this file need to implement best works /pc-117/Videos/bhaskar/Drago/technology_enhancement_questions.md",
+  "sha256": "06145589e76e7bca7d72525e3f0b7aff5f9f1126a4e3744f8ad00aa18f7920dc"
 }
