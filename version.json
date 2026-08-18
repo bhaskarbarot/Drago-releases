@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.12",
+  "versionCode": 13,
+  "versionName": "1.0.13",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v12/Drago-v12.apk",
-  "releaseNotes": "CI/CD hardening pass: dependency vulnerabilities, action versions, cache bug, npm ci, test log noise",
-  "sha256": "672f89262215572cc36209c205970ac78092e5475b2bb1089d9a807cafdc59d8"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v13/Drago-v13.apk",
+  "releaseNotes": "Replace STT-driven enrollment with 6 short-sentence samples, no speech-to-text; add 3-state speaker verification",
+  "sha256": "f50ba35c44f2d306ab281419a2e6cc92045b5d60b23c2faa3a3c01876b501c71"
 }
