@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.15",
+  "versionCode": 17,
+  "versionName": "1.0.17",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v15/Drago-v15.apk",
-  "releaseNotes": "On-device VAD via sherpa-onnx, NNAPI fallback tier, speaker-verification hardening; disable Spotify/Slack pending Premium requirement",
-  "sha256": "27f106fa9590738bd4835b1fbf0f45210e4fd3cfd93078da042081b5e0136c12"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v17/Drago-v17.apk",
+  "releaseNotes": "demo",
+  "sha256": "864f9ef0c2b08e28b369535a87c3606392cc51ea9c0042c4477f12b12da4beda"
 }
