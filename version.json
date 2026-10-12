@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.20",
+  "versionCode": 21,
+  "versionName": "1.0.21",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v20/Drago-v20.apk",
-  "releaseNotes": "v20: Groq Whisper STT, streaming replies, Gmail app password, phone calendar, Hindi voice",
-  "sha256": "59f392371978bcbee347c798dd2d1f6d52289c953d249247decf9b4d8d9db13c"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v21/Drago-v21.apk",
+  "releaseNotes": "v21: always-on Hi Drago (lock screen), WhatsApp inbox and replies from notifications",
+  "sha256": "198026d36517d4740996107dd31ed222bd1432c3ace06fe28539f966c05cbcb7"
 }
