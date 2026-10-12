@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.19",
+  "versionCode": 20,
+  "versionName": "1.0.20",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v19/Drago-v19.apk",
-  "releaseNotes": "Fix voice input, confirmations, wake word, settings persistence and background permissions",
-  "sha256": "8748c4ec9c6f72285a0e2b10d1e252033f4d7a86cc419de7193314c5ddd187d0"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v20/Drago-v20.apk",
+  "releaseNotes": "v20: Groq Whisper STT, streaming replies, Gmail app password, phone calendar, Hindi voice",
+  "sha256": "59f392371978bcbee347c798dd2d1f6d52289c953d249247decf9b4d8d9db13c"
 }
