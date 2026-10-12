@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.18",
+  "versionCode": 19,
+  "versionName": "1.0.19",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v18/Drago-v18.apk",
-  "releaseNotes": "donnneeee",
-  "sha256": "e84399b0e2466d1616c9e19d5d10d8dc1ca07498d148fc47571606dadf6c9778"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v19/Drago-v19.apk",
+  "releaseNotes": "Fix voice input, confirmations, wake word, settings persistence and background permissions",
+  "sha256": "8748c4ec9c6f72285a0e2b10d1e252033f4d7a86cc419de7193314c5ddd187d0"
 }
