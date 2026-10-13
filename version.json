@@ -3,6 +3,6 @@
   "versionName": "1.0.22",
   "minSupportedVersionCode": 1,
   "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v22/Drago-v22.apk",
-  "releaseNotes": "CI: free runner disk space before Android builds",
+  "releaseNotes": "v22: free Gemini backup brain, free web search & news, Maps without key, voice setup checks every word",
   "sha256": "d6fcceb9bf5c20b8df31398fdc1f50d932a0eaad2d798321242f6bca8d7d79d1"
 }
