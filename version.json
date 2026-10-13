@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.21",
+  "versionCode": 22,
+  "versionName": "1.0.22",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v21/Drago-v21.apk",
-  "releaseNotes": "v21: always-on Hi Drago (lock screen), WhatsApp inbox and replies from notifications",
-  "sha256": "198026d36517d4740996107dd31ed222bd1432c3ace06fe28539f966c05cbcb7"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v22/Drago-v22.apk",
+  "releaseNotes": "CI: free runner disk space before Android builds",
+  "sha256": "d6fcceb9bf5c20b8df31398fdc1f50d932a0eaad2d798321242f6bca8d7d79d1"
 }
