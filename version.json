@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.22",
+  "versionCode": 23,
+  "versionName": "1.0.23",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v22/Drago-v22.apk",
-  "releaseNotes": "v22: free Gemini backup brain, free web search & news, Maps without key, voice setup checks every word",
-  "sha256": "d6fcceb9bf5c20b8df31398fdc1f50d932a0eaad2d798321242f6bca8d7d79d1"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v23/Drago-v23.apk",
+  "releaseNotes": "Gemini backup: low reasoning effort by default for fast spoken replies",
+  "sha256": "266cd323ef7e43701b11013b27a93610f5b097fe0c4c9de8b9f7f5cc80eb8cc9"
 }
