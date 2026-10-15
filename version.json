@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.23",
+  "versionCode": 24,
+  "versionName": "1.0.24",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v23/Drago-v23.apk",
-  "releaseNotes": "v23: free Gemini backup brain (fast), free web search & news, Maps without key, voice setup checks every word",
-  "sha256": "266cd323ef7e43701b11013b27a93610f5b097fe0c4c9de8b9f7f5cc80eb8cc9"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v24/Drago-v24.apk",
+  "releaseNotes": "WhatsApp read & reply by voice, Maps distance, weather, smarter memory and model switching; fixes the app closing when it speaks",
+  "sha256": "e9afd450d14897fbb06a9dba096816e836581411a7e52516f7b170c0b416f1e9"
 }
