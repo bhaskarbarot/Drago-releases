@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.26",
+  "versionCode": 27,
+  "versionName": "1.0.27",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v26/Drago-v26.apk",
-  "releaseNotes": "Fast male & female voices (English + Hindi), voice choice in Settings, instant timers, spoken meeting alerts",
-  "sha256": "227a3df73b7c8983d6456f606564db88d27c3701c9fc3873728d20bd787832f9"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v27/Drago-v27.apk",
+  "releaseNotes": "Talk mode (Hey Drago once, many tasks, 'sleep' to stop), Bluetooth earbuds mic, real phone calls",
+  "sha256": "8cee554d6839f0011aa7b451bed83fc13d27773dc55ea08154830815e141fb24"
 }
