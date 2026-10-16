@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.24",
+  "versionCode": 26,
+  "versionName": "1.0.26",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v24/Drago-v24.apk",
-  "releaseNotes": "WhatsApp read & reply by voice, Maps distance, weather, smarter memory and model switching; fixes the app closing when it speaks",
-  "sha256": "e9afd450d14897fbb06a9dba096816e836581411a7e52516f7b170c0b416f1e9"
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v26/Drago-v26.apk",
+  "releaseNotes": "Fast male & female voices (English + Hindi), voice choice in Settings, instant timers, spoken meeting alerts",
+  "sha256": "227a3df73b7c8983d6456f606564db88d27c3701c9fc3873728d20bd787832f9"
 }
