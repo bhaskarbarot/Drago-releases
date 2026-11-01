@@ -1,9 +1,9 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.28",
+  "versionCode": 29,
+  "versionName": "1.0.29",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v28/Drago-v28.bin",
-  "releaseNotes": "Free natural voice: the phone's own Google/Samsung voice is now the default (zero cost)",
-  "sha256": "78fb617a88b8ff7b62f21c326161ea775b36a99cc527c0679fd23bd7b04a8ef6",
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v29/Drago-v29.bin",
+  "releaseNotes": "E2E: test contacts are really added now (values quoted for the emulator's shell; 'Beena Shah' was split and every insert failed)",
+  "sha256": "a53a85773633c3a8372010fe3a5fed39508901c4ae348843cfab8db5d3b24309",
   "encrypted": true
 }
