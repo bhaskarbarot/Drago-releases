@@ -1,0 +1,9 @@
+{
+  "versionCode": 28,
+  "versionName": "1.0.28",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v28/Drago-v28.bin",
+  "releaseNotes": "Free natural voice: the phone's own Google/Samsung voice is now the default (zero cost)",
+  "sha256": "78fb617a88b8ff7b62f21c326161ea775b36a99cc527c0679fd23bd7b04a8ef6",
+  "encrypted": true
+}
