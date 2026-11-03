@@ -1,9 +1,9 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.30",
+  "versionCode": 31,
+  "versionName": "1.0.31",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v30/Drago-v30.bin",
-  "releaseNotes": "E2E: temporary language (speak in Gujarati → ask to switch back → ok), mic stays visible with long answers; E2E app uses Claude Haiku 5.5 first (Bhaskar's setup); Claude scenario harness: no Groq token budget, realistic Gmail results",
-  "sha256": "50b9528f0b2c66297cb1c5bfc71e3ff1330a0638419bf2d8f01dad4162e311de",
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v31/Drago-v31.bin",
+  "releaseNotes": "v30.1 speed fix: Gemini voice took 2.4-3.6 s per sentence (measured) -> fast phone voice again, Google's natural voices preferred (Gemini voice stays in Settings, marked slower); cut-off Claude streams ('Goodnight, take') are re-fetched in full; Claude gets a clean history (no 400 -> silent fallback on later commands); current-facts search only for prices/news/scores/weather; Teach Hey Drago waits for the voice, frees the mic first and says what it heard; live multi-turn Claude timing test",
+  "sha256": "c251b7152954b2058ad13e0e6c7ffbe492f6bb0c24d52803fc7f2ff774ec1767",
   "encrypted": true
 }
