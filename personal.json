@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.29",
+  "versionCode": 30,
+  "versionName": "1.0.30",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v29/Drago-v29.bin",
-  "releaseNotes": "E2E: test contacts are really added now (values quoted for the emulator's shell; 'Beena Shah' was split and every insert failed)",
-  "sha256": "a53a85773633c3a8372010fe3a5fed39508901c4ae348843cfab8db5d3b24309",
+  "apkUrl": "https://github.com/bhaskarbarot/drago-releases/releases/download/v30/Drago-v30.bin",
+  "releaseNotes": "E2E: temporary language (speak in Gujarati → ask to switch back → ok), mic stays visible with long answers; E2E app uses Claude Haiku 5.5 first (Bhaskar's setup); Claude scenario harness: no Groq token budget, realistic Gmail results",
+  "sha256": "50b9528f0b2c66297cb1c5bfc71e3ff1330a0638419bf2d8f01dad4162e311de",
   "encrypted": true
 }
